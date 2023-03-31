@@ -1,0 +1,166 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+  
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  
+  flex-direction: row;
+  background-image: linear-gradient(red,rgb(227, 218, 218),blue);
+   height: 100vh;
+    width: 100vw;
+    gap: 50px;
+   
+}
+.heading
+{ 
+    display: flex;
+   
+    font-family: 'Architects Daughter', cursive;
+    font-size: 60px;
+    width: 30vw;
+}
+.head
+{
+    display: flex;
+    flex-direction: column;
+     font-size: 30px;
+    margin-top: 50px;
+    height: 47vmin;
+    width: 50vmin;
+    
+}
+.main
+{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+#ans
+{
+    width: 50vmin;
+    height: 50px;
+    padding: 20px;
+    border: 2px red;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+}
+#sum
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#sum1
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#sum2
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#sum0
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#sum3
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#sum4
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#sum5
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#sum6
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#sum7
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#sum8
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#sum9
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#equal
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#mul
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#sumd
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#divi
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#mod
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#sqr
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#sub
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+#clear
+{
+    padding: 20px;
+    border: 2px red;
+    border-radius: 100px;
+}
+
+
